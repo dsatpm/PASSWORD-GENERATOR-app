@@ -23,7 +23,7 @@ I also took creative liberty by using some CSS to alter the way the page looked 
 
 ## Support
 
-If there are any bugs or technical issues with this app, please don't hesitate to reach out to me via [Twitter](https://twitter.com/JeremiahHa61117). Thank you for checking out my stuff!
+If there are any bugs or technical issues with this app, please don't hesitate to reach out to me via [Twitter](https://twitter.com/__dsatpm). Thank you for checking out my stuff!
 
 
 ## Roadmap
