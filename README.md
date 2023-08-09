@@ -1,6 +1,7 @@
 # Password Generator
 
 A program created with JavaScript that creates a random password given a user's preference of type of characters to include.
+For source code, visit my [GitHub](https://github.com/dsatpm/password-generator)
 
 
 ## Requirements
@@ -22,7 +23,7 @@ I also took creative liberty by using some CSS to alter the way the page looked 
 
 ## Support
 
-If there are any bugs or technical issues with this app, please don't hesitate to reach out to me via [Twitter](www.twitter.com/JeremiahHa61117). Thank you for checking out my stuff!
+If there are any bugs or technical issues with this app, please don't hesitate to reach out to me via [Twitter](https://twitter.com/JeremiahHa61117). Thank you for checking out my stuff!
 
 
 ## Roadmap
