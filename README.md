@@ -3,7 +3,7 @@
 A program created with JavaScript that creates a random password given a user's preference of type of characters to include.
 For source code, visit my [GitHub](https://github.com/dsatpm/password-generator)
 <br>
-The deployed link is [Password Generator](https://dsatpm.github.io/password-generator)
+The deployed link is [here](https://dsatpm.github.io/password-generator)
 
 
 ## Requirements
